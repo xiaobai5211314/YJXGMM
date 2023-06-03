@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.Management;
 using System.DirectoryServices.AccountManagement;
-
+using System.Windows.Forms;
 
 namespace 一键修改账户名密码
 {
@@ -10,6 +10,7 @@ namespace 一键修改账户名密码
         public Form1()
         {
             InitializeComponent();
+
             // 显示当前登录用户名
             textBox3.Text = Environment.UserName;
             MessageBox.Show("每修改一次账户名重启一次");

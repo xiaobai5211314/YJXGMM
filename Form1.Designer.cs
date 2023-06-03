@@ -154,7 +154,7 @@
             Controls.Add(textBox1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Form1";
+            Text = "一键修改账户名密码";
             ResumeLayout(false);
             PerformLayout();
         }
