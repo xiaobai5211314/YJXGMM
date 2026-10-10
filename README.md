@@ -46,3 +46,8 @@ Windows 本地账户管理小工具，支持一键修改当前登录账户的用
 ```powershell
 & "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuild.exe" .\一键修改账户名密码.csproj /restore /p:Configuration=Release
 ```
+
+## 开发与协作规范
+
+详细架构设计、WMI 调用机制与管理员权限约束请参阅 [AGENTS.md](./AGENTS.md)。
+
