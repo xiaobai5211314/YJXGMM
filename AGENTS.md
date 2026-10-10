@@ -42,4 +42,4 @@ Windows 本地账户管理小工具，支持管理员权限下一键重命名当
 - 避免使用裸 `dotnet build` 处理本项目的资源文件，.NET SDK 对 .NET Framework 4.8 WinForms resx 资源处理存在兼容限制。
 
 ## 8. 相关文档
-- [README.md](file:///e:/OneDrive%20-%201301173082@stu.ahcme.edu.cn/OneDrive%20-%20stu.ahcme.edu.cn/%E5%B0%8F%E7%99%BD/%E7%A8%8B%E5%BA%8F/%E6%A0%A1%E6%8B%9B2022/%E4%B8%80%E9%94%AE%E4%BF%AE%E6%94%B9%E8%B4%A6%E6%88%B7%E5%90%8D%E5%AF%86%E7%A0%81/README.md)
+- [README.md](./README.md)
